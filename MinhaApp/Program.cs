@@ -24,5 +24,3 @@ app.MapControllers();
 
 app.Run();
 
-
-bug
