@@ -23,3 +23,22 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+
+if(true)
+    Console.Write("Oi mundo");
+
+if(false)
+    Console.Write("Oi mundo");
+
+
+
+//if(true)
+//    Console.Write("Oi mundo");
+//if(false)
+//    Console.Write("Oi mundo");
+
+//TODO: JNETO - codigo esuecido
+
+
