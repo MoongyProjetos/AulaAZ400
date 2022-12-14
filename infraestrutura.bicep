@@ -1,5 +1,5 @@
 
-param storageName string = 'stg${uniqueString(resourceGroup().id)}'
+param storageName string = 'novonome'
 param location string = resourceGroup().location
 
 resource storageaccount 'Microsoft.Storage/storageAccounts@2021-02-01' = {
